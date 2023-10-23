@@ -3,7 +3,7 @@
 <h1>Overview</h1>
 
 <p>This is a <strong>Student News Website</strong> for <strong>Knobull</strong>, designed to allow students to browse news articles. </p>
-<p><strong>Supervisor: </strong>Lynn (The Founder of Knobull)  
+<p><strong>Supervisor: </strong>Lynn Bentley (The Founder of Knobull)  
 
 <h2>Preview</h2>
 <h3>Current News Page</h3>
